@@ -1,0 +1,6 @@
+
+/backend/node-modules
+/backend/*.log
+
+/frontend/node-modules
+/frontend/*.log
